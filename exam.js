@@ -72,7 +72,7 @@ const people = [
 ];
 
 // 6. sort Exercise
-// Sort the people alphabetically by last name
+// Sort the people alphabetically by last name (alphabetical order)
 
 const data = [
   "car",
